@@ -10,5 +10,5 @@ Your need to build a connnected app in the salesforce for integration.
 
 Thats it.
 
-If anyone having query realted to this mail me at <b>abhi.bisht@gmail.com
+If anyone having query realted to this mail me at <b>abhi.bisht89@gmail.com
 
